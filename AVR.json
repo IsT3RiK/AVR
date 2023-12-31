@@ -1,0 +1,126 @@
+{
+	"settings": {
+		"disabledNotifStart": true,
+		"disabledNotifInfo": true,
+		"disabledNotifWarn": false,
+		"disabledNotifError": false,
+		"enabledSilentVote": true,
+		"disabledCheckInternet": true,
+		"disabledOneVote": false,
+		"disabledRestartOnTimeout": false,
+		"disabledFocusedTab": true,
+		"enableCustom": false,
+		"timeout": 10000,
+		"timeoutError": 90000,
+		"timeoutVote": 90000,
+		"disabledWarnCaptcha": true,
+		"debug": false,
+		"disabledUseRemoteCode": false,
+		"disabledSendErrorSentry": false,
+		"expertMode": true,
+		"disabledClickCaptcha": false,
+		"operaAttention2": true,
+		"temporarilyDisabledUseRemoteCode": true,
+		"operaAttention": true
+	},
+	"generalStats": {
+		"successVotes": 168,
+		"monthSuccessVotes": 168,
+		"lastMonthSuccessVotes": 0,
+		"errorVotes": 8,
+		"laterVotes": 4,
+		"lastSuccessVote": 1704031053574,
+		"lastAttemptVote": 1704031030099,
+		"added": 1700641563081
+	},
+	"todayStats": {
+		"successVotes": 17,
+		"errorVotes": 1,
+		"laterVotes": 0,
+		"lastSuccessVote": 1704031053574,
+		"lastAttemptVote": 1704031030099
+	},
+	"version": 14,
+	"projects": [
+		{
+			"id": "6351",
+			"rating": "serveursminecraft.org",
+			"nick": "IsT3RiK",
+			"stats": {
+				"successVotes": 14,
+				"monthSuccessVotes": 14,
+				"lastMonthSuccessVotes": 0,
+				"errorVotes": 2,
+				"laterVotes": 2,
+				"lastSuccessVote": 1704014539297,
+				"lastAttemptVote": 1704014521032,
+				"added": 1702485694450
+			},
+			"time": 1704100939296,
+			"name": "la Ruche - Communauté FR",
+			"key": 6
+		},
+		{
+			"id": "204856",
+			"rating": "liste-serveurs-minecraft.org",
+			"nick": "IsT3RiK",
+			"maxCountVote": 16,
+			"countVote": 5,
+			"stats": {
+				"successVotes": 46,
+				"monthSuccessVotes": 46,
+				"lastMonthSuccessVotes": 0,
+				"errorVotes": 0,
+				"laterVotes": 0,
+				"lastSuccessVote": 1704025401762,
+				"lastAttemptVote": 1704025389426,
+				"added": 1702485744957
+			},
+			"time": 1704036201762,
+			"name": "",
+			"key": 7
+		},
+		{
+			"id": "3055",
+			"rating": "serveur-minecraft.com",
+			"nick": "IsT3RiK",
+			"maxCountVote": 16,
+			"countVote": 5,
+			"stats": {
+				"successVotes": 46,
+				"monthSuccessVotes": 46,
+				"lastMonthSuccessVotes": 0,
+				"errorVotes": 0,
+				"laterVotes": 0,
+				"lastSuccessVote": 1704025400142,
+				"lastAttemptVote": 1704025389426,
+				"added": 1702485783660
+			},
+			"time": 1704036200142,
+			"name": "La Ruche - Communauté FR",
+			"key": 8
+		},
+		{
+			"lang": "fr",
+			"game": "minecraft",
+			"id": "la-ruche-communaute-fr-12264",
+			"rating": "serveur-prive.net",
+			"nick": "IsT3RiK",
+			"maxCountVote": 16,
+			"countVote": 12,
+			"stats": {
+				"successVotes": 62,
+				"monthSuccessVotes": 62,
+				"lastMonthSuccessVotes": 0,
+				"errorVotes": 6,
+				"laterVotes": 2,
+				"lastSuccessVote": 1704031053574,
+				"lastAttemptVote": 1704031030099,
+				"added": 1702485808757
+			},
+			"time": 1704036453574,
+			"name": "La Ruche - Communauté FR",
+			"key": 9
+		}
+	]
+}
